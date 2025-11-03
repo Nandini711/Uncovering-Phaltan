@@ -1,0 +1,32 @@
+.topnav {
+    overflow: hidden;
+    }
+  
+  .topnav a {
+    float:left;
+    color:darkslateblue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 30px;
+  }
+  .topnav a:hover {
+    background-color:none;
+    color:#005000;
+  }
+  
+  .topnav a.active { 
+    background-color: azure;
+    color: white;
+   }
+   body{ background-color:lightskyblue; font-family:'Times New Roman', Times, serif; }
+   h1{color:firebrick;font-family:algerian;font-size:65px;text-align:center;text-decoration:underline;text-shadow: 0vi;}
+   h2{color:antiquewhite;Font-family:Castellar;font-size:70px;text-decoration: underline;text-shadow:0vmax;}
+   h4{color:#d76f30;text-decoration:double;font-family:cursive;font-size:35px;}
+   p{color:indigo; font-family:Lucida Sans; font-size:25px;}
+   img {height:300px; width:500px;}
+   table{border: 30px solid black}
+   
+
+
+   

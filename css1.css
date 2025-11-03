@@ -1,0 +1,29 @@
+.topnav {
+    overflow: hidden;
+    }
+  
+  .topnav a {
+    float:left;
+    color:#8282fe;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  .topnav a:hover {
+    background-color:wheat;
+    color:black;
+  }
+  
+  .topnav a.active {
+    background-color: azure;
+    color: white;
+   }
+   body{ background-color:#283d24; font-family:serif; }
+   h1{color:#d57f20; font-family:algerian;font-size:50px;text-align:center;text-shadow: 0vi;}
+   h2{color:#8282fe; font-family:Castellar;font-size:40px;}
+   h4{color:#000090;text-decoration:double;font-family:cursive;font-size:35px;}
+   p{color:#c1c1fd;font-family:'Lucida Sans';font-size:25px;}
+   
+
+   
